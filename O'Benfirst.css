@@ -1,0 +1,139 @@
+#title {
+   background-color: #281653;
+}
+h1 {
+   font-family: 'Merriweather', serif;
+}
+
+h2,h3 {
+   font-family: 'Montserrat', sans-serif;
+   text-align: center;
+}
+p {
+   text-align: center;
+   font-size: 17px;
+   line-height: 1.8;
+   font-family: 'Merriweather', serif;
+}
+a {
+   color: #11999e;
+   font-family: 'Montserrat', sans-serif;
+   text-decoration: none;
+   margin: 10px 20px ;
+   text-align: center;
+}
+a:hover  {
+   color: #eaf6f6;
+}
+.homeLogo{
+   width: 25px;
+   height: 25px;
+   border-radius: 50%;
+}
+.RC {
+   text-align: center;
+   font-weight: lighter;
+}
+
+.navbar-brand {
+   font-family: sans-serif;
+   font-size: 3.5rem;
+   font-weight: bold;
+}
+
+.nav-item {
+   padding: 0 20px;
+}
+
+.nav-link {
+   font-size: 1.2rem;
+   font-family: "Montserrat-light";
+}
+
+.C-V {
+   width: 20px;
+   height: 10px;
+}
+
+#profile {
+   text-align: center;
+   background-color:#020e0d;
+   color: #fff;
+   padding-top: 5%;
+
+
+}
+em {
+   font-size: 12px;
+   font-weight: lighter;
+}
+
+.company-logo {
+   width: 20%;
+   border-radius: 50%;
+   text-align: center;
+   padding-bottom: 10px;
+}
+
+
+.Brand-Des {
+   text-align: center;
+}
+
+
+.test-img {
+width: 55%;
+height: 400px;
+border-radius: 10%;
+}
+
+
+#About-Us {
+   padding: 5% 10%;
+background-color: black;
+color: white;
+text-align: center;
+}
+
+
+.Who-img {
+   width: 15%;
+   border-radius: 50%;
+   margin-bottom: 5%;
+}
+
+.service-img {
+   width: 50%;
+   border-radius: 50%;
+   padding: 35px;
+}
+
+.abou {
+   background-color: rgb(4, 4, 20);
+   padding:9% 10%;
+   line-height: 1.8;
+}
+.our-services {
+   padding: 5%;
+   font-weight: bolder;
+}
+.bottom-container {
+   background-color: #50837c;
+padding: 35px 0 20px;
+text-align: center;
+
+}
+.contact-message {
+   width: 40%;
+   margin: 40px auto 60px;
+}
+
+.footer-link {
+   color: #11999e;
+text-align: center;
+}
+
+.con-me {
+   color: #11999e;
+text-align: center;
+}
